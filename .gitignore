@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# the nwm-archive branch is checked out here as a worktree
+data/
